@@ -1,0 +1,11 @@
+**Getting started with Twitter API for content requesting**
+
+Use Tweepy, Twitter API Wrapper, that enables the work with the API.
+
+1. In Developers Twitter, create an app to get access and API tokens, necessary for authentication. 
+
+2. Setting OAuthHandler Tweepy method to identify with Twitter API.
+
+3. Setting the call to the API with tokens.
+
+4. Using Cursor and setting search Tweepy method for a simple query.
