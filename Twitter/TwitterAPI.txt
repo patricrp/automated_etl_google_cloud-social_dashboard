@@ -9,3 +9,7 @@ Use Tweepy, Twitter API Wrapper, that enables the work with the API.
 3. Setting the call to the API with tokens.
 
 4. Using Cursor and setting search Tweepy method for a simple query.
+
+5. Getting tweets from a complex query in Spanish.
+
+6. Getting date, username and text for each tweet and append it to a dataframe
