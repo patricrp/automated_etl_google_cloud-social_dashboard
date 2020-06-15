@@ -13,3 +13,7 @@ Use Tweepy, Twitter API Wrapper, that enables the work with the API.
 5. Getting tweets from a complex query in Spanish.
 
 6. Getting date, username and text for each tweet and append it to a dataframe
+
+7. Looping to get first tweets and then using max_id, update the dataframe with older tweets.
+
+8. Optimize code to get 2 functions: searchTweets and updateTweets
